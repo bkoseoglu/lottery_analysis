@@ -1,4 +1,4 @@
-# lottery_analysis
+# Lottery_analysis
 Analysis of lottery results from a statistics perspective.
 
 ## Command Options
